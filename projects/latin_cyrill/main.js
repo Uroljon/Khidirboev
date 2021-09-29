@@ -43,6 +43,7 @@ document.getElementById('calculate').addEventListener("click", function () {
     originalMessage = originalMessage.replace(/ˊ/g, "\'");
     originalMessage = originalMessage.replace(/ˋ/g, "\'");
     originalMessage = originalMessage.replace(/‘/g, "\'");
+    originalMessage = originalMessage.replace(/’/g, "\'");
     //bu O' ning shapkasi. Har xil variantda tarjima qiladi :)
 
     originalMessage = originalMessage.replace(/Ye/g, "Е");

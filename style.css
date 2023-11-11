@@ -734,10 +734,7 @@ footer .copyright:hover {
 
     .grid {
         grid-template-columns: 100%;
-        gap: 1.5% 0%;
         justify-items: center;
-        /* justify-self: center; */
-
     }
 
     #projects h2 {
@@ -773,7 +770,6 @@ footer .copyright:hover {
     .grid {
         grid-template-columns: 48% 48%;
         grid-template-rows: auto;
-        gap: 3% 4%;
     }
 
     #projects h2 {

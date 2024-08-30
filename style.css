@@ -654,8 +654,6 @@ footer .copyright:hover {
 
   .grid {
     grid-template-columns: 100%;
-    gap: 1.5% 0%;
-
   }
 
   #projects h2 {

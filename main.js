@@ -37,7 +37,6 @@ function handleTypewriterEffect(params) {
   let line = 0;
   let direction = "forward";
   setInterval(function () {
-    console.log("pickup");
     const wordLength = container.textContent.length;
     let currentWord = "";
     if(wordLength === animationText[line].length){

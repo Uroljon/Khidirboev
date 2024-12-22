@@ -151,6 +151,7 @@ body {
   color: white;
   background-image: linear-gradient(62deg, #030303 0%, #303841 100%);
   z-index: 1;
+  overflow: hidden;
 }
 
 #welcome-section .welcome-img img {

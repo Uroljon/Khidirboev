@@ -630,6 +630,7 @@ footer .copyright:hover {
     right: 0;
     left: 50%;
     transform: translate(-50%, 0);
+    width: 100%;
   }
 }
 /* extra small */
